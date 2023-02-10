@@ -16,6 +16,8 @@
 #     score = sentiment_analysis(text_input)
 #     st.write("Sentiment score:", score)
 
+pip install pysentimiento
+
 import streamlit as st
 from pysentimiento import create_analyzer
 
